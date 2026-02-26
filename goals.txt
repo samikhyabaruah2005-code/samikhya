@@ -1,0 +1,1 @@
+devops is a cultural philosophy, set of practices and tools that merge software development(dev) and IT operations(ops)
